@@ -22,4 +22,26 @@ $(document).ready(function($) {
 			}
 			$("article").attr('show', level);
 	});
+	$(".relation").each(function(index, el) {
+		$(this).attr('href', $(this).attr('href')+"#"+$(this).attr('id'));
+		console.log($(this).attr('id')+ "==" + location.hash);
+		if("#"+$(this).attr('id')==location.hash){
+			highlight($(this));
+		}
+	});
+	$(".relation").hover(function() {
+		/* Stuff to do when the mouse enters the element */
+		highlight($(this));
+	}, function() {
+		/* Stuff to do when the mouse leaves the element */
+		removeHighlight($(this));
+	});
 });
+function highlight(el){
+	el.closest('context').addClass('highlight');
+	$("context"+"[relation="+el.attr("id")+"]").addClass('highlight');
+}
+function removeHighlight(el){
+	el.closest('context').removeClass('highlight');
+	$("context"+"[relation="+el.attr("id")+"]").removeClass('highlight');
+}
