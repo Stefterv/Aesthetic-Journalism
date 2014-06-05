@@ -36,6 +36,11 @@ $(document).ready(function($) {
 		/* Stuff to do when the mouse leaves the element */
 		removeHighlight($(this));
 	});
+	$(".trigger").on("click",function(event){
+		event.preventDefault();
+		$(".context[trigger="+$(this).attr("id")+"]").hide();
+		$(".replace[trigger="+$(this).attr("id")+"]").show();
+	});
 });
 function highlight(el){
 	el.closest('context').addClass('highlight');
