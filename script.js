@@ -13,4 +13,13 @@ $(document).ready(function($) {
 			$(this).html($(this).attr('level-'+level));
 		}
 	});	
+	$(".gonext").click(function(event) {
+			event.preventDefault();
+			var level = $("article").attr("show");
+			level++;
+			if(level>$("article").attr("maxLevel")){
+				level = 1;
+			}
+			$("article").attr('show', level);
+	});
 });

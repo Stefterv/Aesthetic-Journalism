@@ -1,0 +1,9 @@
+article .level1{
+	color: black;
+}
+article[show="2"] .level1{
+	color: white;
+}
+article[show="2"] .level2{
+	color: black;
+}
