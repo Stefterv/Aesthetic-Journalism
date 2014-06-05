@@ -1,0 +1,27 @@
+.container {
+  max-width: 900px;
+  margin: 0 auto; 
+}
+
+.discussieright {
+	width:45%;
+	height:auto;
+	display: inline-block;
+	text-align: left;
+}
+
+.rightcontainer {
+	width:100%;
+	height:auto;
+	text-align: right;
+}
+
+.discussieleft {
+	width:45%;
+	height:auto;
+}
+
+.leftcontainer {
+	width:100%;
+	height:auto;
+}
