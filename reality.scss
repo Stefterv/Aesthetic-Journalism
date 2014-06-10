@@ -1,53 +1,21 @@
-article{
+article .level1{
 	color: black;
-	cursor: pointer;
-	transition: color 0.2s ease-in-out;
-	font-family: "Century";
-}
-::selection{
-	background: rgba(0,0,0,0);
-}
-.show{
-	color: black;
-	transition: color 0.2s ease-in-out;
-}
-.hide{
-	color: white;
-	transition: color 0.2s ease-in-out;
-}
-article[show="1"]{
-	@extend .hide;
-}
-article[show="1"] .level1{
-	@extend .show;
-}
-article[show="1"] .level2{
-	@extend .show;
-}
-article[show="1"] .level3{
-	@extend .show;
-}
-article[show="2"]{
-	@extend .hide;
 }
 article[show="2"] .level1{
-	@extend .hide;
+	color: white;
 }
 article[show="2"] .level2{
-	@extend .show;
+	color: black;
 }
 article[show="2"] .level3{
-	@extend .show;
-}
-article[show="3"]{
-	@extend .hide;
+	color: black;
 }
 article[show="3"] .level1{
-	@extend .hide;
+	color: white;
 }
 article[show="3"] .level2{
-	@extend .hide;
+	color: white;
 }
 article[show="3"] .level3{
-	@extend .show;
+	color: black;
 }

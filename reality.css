@@ -1,16 +1,20 @@
-article {
-  color: black;
-  cursor: pointer;
-  transition: color 0.2s ease-in-out;
-  font-family: "Century"; }
+article .level1 {
+  color: black; }
 
-::selection {
-  background: rgba(0, 0, 0, 0); }
+article[show="2"] .level1 {
+  color: white; }
 
-.show, article[show="1"] .level1, article[show="1"] .level2, article[show="1"] .level3, article[show="2"] .level2, article[show="2"] .level3, article[show="3"] .level3 {
-  color: black;
-  transition: color 0.2s ease-in-out; }
+article[show="2"] .level2 {
+  color: black; }
 
-.hide, article[show="1"], article[show="2"], article[show="2"] .level1, article[show="3"], article[show="3"] .level1, article[show="3"] .level2 {
-  color: white;
-  transition: color 0.2s ease-in-out; }
+article[show="2"] .level3 {
+  color: black; }
+
+article[show="3"] .level1 {
+  color: white; }
+
+article[show="3"] .level2 {
+  color: white; }
+
+article[show="3"] .level3 {
+  color: black; }

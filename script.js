@@ -24,6 +24,7 @@ $(document).ready(function($) {
 	});
 	$(".relation").each(function(index, el) {
 		$(this).attr('href', $(this).attr('href')+"#"+$(this).attr('id'));
+		console.log($(this).attr('id')+ "==" + location.hash);
 		if("#"+$(this).attr('id')==location.hash){
 			highlight($(this));
 		}
@@ -39,15 +40,6 @@ $(document).ready(function($) {
 		event.preventDefault();
 		$(".context[trigger="+$(this).attr("id")+"]").hide();
 		$(".replace[trigger="+$(this).attr("id")+"]").show();
-	});
-	$(".reality").on("click",function(){
-		var level = $(this).attr("show");
-		var maxLevel = 3;
-		level++;
-		if(level>maxLevel){
-			level = 0;
-		}
-		$(this).attr("show",level);
 	});
 });
 function highlight(el){
