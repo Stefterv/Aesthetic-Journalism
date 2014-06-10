@@ -59,7 +59,7 @@ realiteit. Een fotoreportage van een conflict in zuid Afrika waarbij een luguber
 	
 <span class="cycle" level-1="leven" level-2="existentie" level-3="teren">leven</span> 
 	
-leiden. <context relation="situatie01">Hiermee maskeert het de rest van de realiteit van het beeld en perverteert het het beeld dat het westen van de 
+leiden. <context relation="situatie01">Hiermee maskeert het de rest van de realiteit van het beeld en perverteert het het beeld dat het westen van de </context>
 	
 <span class="cycle" level-1="situatie" level-2="toestand" level-3="<a href=/?page=reality class=relation id=situatie01>omstandigheid</a>">situatie</span> 
 	
@@ -72,7 +72,7 @@ Een belangrijke vergelijking is ook die van Jacques Lacan die een triade stelt v
 
 order” is het stadium in de menselijke ontwikkeling waarin de mens zich als op zichzelf staand individu gaat zien, los van de ouders. Dit gebeurt door middel van „the sense of 
 	
-<span class="cycle" level-1="self" level-2="autogenous" level-3="<img class=afbeelding src=images/self.png.jpg>"level-4="<a href=/?page=reality class=relation id=self01>subjective</a>">self</span>” 
+<span class="cycle" level-1="self" level-2="autogenous" level-3="<img class=afbeelding src=images/self.png>"level-4="<a href=/?page=reality class=relation id=self01>subjective</a>">self</span>” 
 	
 welke mede gegenereerd door het zien van de weerspiegeling van een persoon zijn eigen verschijning. <i>„When it sees itself in the mirror, however, it does see itself as a whole, but it is only an image of the whole. The other in the mirror is Imaginary. The child will now identify itself with the image. This is called a dual kind of relation.” <sup>2</sup></i></context>  „The symbolic” is de fase waarin de mens 
 	
