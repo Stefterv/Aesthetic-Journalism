@@ -1,6 +1,7 @@
 .container {
   max-width: 1000px;
   margin: 0 auto; 
+font-family: 'Josefin Sans', sans-serif;
 }
 
 .discussieright {
@@ -29,3 +30,18 @@
 .context img {
 	max-width:300px;
 }
+
+.title {
+	font-size:30px;
+}
+
+.name {
+	font-size:20px;
+}
+
+
+/*
+
+<span class="context" trigger="§">
+<a id="§" class="trigger" href="#">§</a>
+</span><span trigger="§" class="replace"><img src="images/§.jpg"></span>

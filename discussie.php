@@ -1,7 +1,12 @@
+<link href='http://fonts.googleapis.com/css?family=Josefin+Sans' rel='stylesheet' type='text/css'>
+
 <title>Het debat over de waarde van beeld in oorlog journalistiek</title>		
 
 		<div class="container">
 			<div class="person">
+				<div class="title">Het debat over de waarde van beeld in oorlog journalistiek<BR></div>
+				<div class="name">Wido Beukhof<BR><BR><BR></div>
+
 				<b>Susan Sontag (Schrijfster)</b>
 				<BR><BR>
 
@@ -53,7 +58,7 @@
 				<BR><BR><BR><BR>
 			</div>
 
-			<div class="title"><b>Het debat over de waarde van beeld in oorlog journalistiek</b></div>
+			<div class="title2"><b>Het debat over de waarde van beeld in oorlog journalistiek</b></div>
 
 			<BR>
 				<div class="leftcontainer">
@@ -117,9 +122,9 @@
 					<div class="discussieright">
 						<b>S.S;</b> 
 
-						<span class="context" trigger="censuur">Maar waar je dan mee bezig bent is <a id="censuur" class="trigger" href="#">censuur</a>.</span><span trigger="censuur" class="replace"><a href="/?page=portal" class="relation" id="fictie01"><img src="images/censuur.jpg"></a></span> 
+						<span class="context" trigger="censuur">Maar waar je dan mee bezig bent is <context relation="censuur"><a id="censuur" class="trigger" href="#">censuur</a>.</span><span trigger="censuur" class="replace"><a href="/?page=portal" class="relation" id="fictie01"><img src="images/censuur.jpg"></a></span> 
 
-						<span class="context" trigger="veiligere">Je laat bewust een deel van de situatie uit beeld om een <a id="veiligere" class="trigger" href="#">veiligere</a> foto te maken.</span><span trigger="veiligere" class="replace"><img src="images/veiligere.jpg"></span> 
+						<span class="context" trigger="veiligere">Je laat bewust een deel van de situatie uit beeld om een <a id="veiligere" class="trigger" href="#">veiligere</a> foto te maken.</context></span><span trigger="veiligere" class="replace"><img src="images/veiligere.jpg"></span> 
 
 						<context relation="integriteit"><span class="context" trigger="beeld">Oorlog journalistiek draait om <a href="/?page=reality" class="relation" id="integriteit01">integriteit en echtheid</a> van het <a id="beeld" class="trigger" href="#">beeld</a> dat gemaakt wordt.</span><span trigger="beeld" class="replace"><img src="images/beeld.jpg"></span></context> 
 
@@ -212,7 +217,7 @@
 
 						<span class="context" trigger="nieuws">Hoe negatiever ze tegenover het slechte <a id="nieuws" class="trigger" href="#">nieuws</a> staan, hoe negatiever ze tegenover het leed van anderen zelf staan.</span><span trigger="nieuws" class="replace"><img src="images/nieuws.jpg"></span> 
 
-						<span class="context" trigger="conflicten">Die negativiteit is alleen te bereiken door het slechtste van de <a id="conflicten" class="trigger" href="#">conflicten</a> te tonen. Het leed.</span><span trigger="conflicten" class="replace"><a href="/?page=portal" class="relation" id="realiteit01"><img src="images/conflicten.jpg"></a></span>
+						<span class="context" trigger="conflicten">Die negativiteit is alleen te bereiken door <context relation="conflicten">het slechtste van de <a id="conflicten" class="trigger" href="#">conflicten</a> te tonen. Het leed.</context></span><span trigger="conflicten" class="replace"><a href="/?page=portal" class="relation" id="realiteit01"><img src="images/conflicten.jpg"></a></span>
 						<BR><BR>
 					</div>
 				</div>
@@ -225,7 +230,7 @@
 
 						 <span class="context" trigger="effect">Ik ben het wel met meneer Dunleavy eens dat het afschrikken van mensen het gewenste <a id="effect" class="trigger" href="#">effect</a> is. Dat wanneer zij zien dat een ander mens lijdt, dat zij daar zelf ook een beetje aan lijden.</span><span trigger="effect" class="replace"><img src="images/effect.jpg"></span>
 
-						 <span class="context" trigger="afgestompt">Ze gaan er dan toch over nadenken, en meeleven met die ander. De vraag is of het zal blijven werken, met het oog op mevrouw Sontag's hypothese dat de mens <a id="afgestompt" class="trigger" href="#">afgestompt</a> wordt door de vele gruwelbeelden. Men zal er misschien uiteindelijk immuun voor worden.</span><span trigger="afgestompt" class="replace"><a href="/?page=portal" class="relation" id="perception01"><img src="images/afgestompt.jpg"></a></span> 
+						 <span class="context" trigger="afgestompt">Ze gaan er dan toch over nadenken, en meeleven met die ander. De vraag is of het zal blijven werken, met het oog op mevrouw Sontag's hypothese dat <context relation="afgestompt">de mens <a id="afgestompt" class="trigger" href="#">afgestompt</a> wordt door de vele gruwelbeelden. Men zal er misschien uiteindelijk immuun voor worden.</context></span><span trigger="afgestompt" class="replace"><a href="/?page=portal" class="relation" id="perception01"><img src="images/afgestompt.jpg"></a></span> 
 						<BR><BR>
 					</div>
 				</div>
@@ -236,9 +241,9 @@
 
 						<span class="context" trigger="leed">Men op deze manier op de hoogte blijven houden van het <a id="leed" class="trigger" href="#">leed</a> van anderen is voor nu denk ik de enige oplossing, daar kunnen we het nu denk ik wel over eens zijn.</span><span trigger="leed" class="replace"><img src="images/leed.jpg"></span>
 
-						 <context relation="test"><span class="context" trigger="beelden">Voor nu is de mens nog niet immuun voor het leed van anderen, men <a href="/?page=reality" class="relation" id="schrikt01">schrikt</a> er nog steeds van wanneer ze de <a id="beelden" class="trigger" href="#">beelden</a> op tv zien, op internet zien, of in de krant lezen.</span><span trigger="beelden" class="replace"><img src="images/beelden.jpg"></span></context>
+						 <span class="context" trigger="beelden">Voor nu is de mens nog niet immuun voor het leed van anderen, <context relation="mens">men <a href="/?page=reality" class="relation" id="schrikt01">schrikt</a> er nog steeds van wanneer ze de <a id="beelden" class="trigger" href="#">beelden</a> op tv zien, op internet zien, of in de krant lezen.</span><span trigger="beelden" class="replace"><img src="images/beelden.jpg"></span></context>
 
-						 <span class="context" trigger="mens">Of de <a id="mens" class="trigger" href="#">mens</a> er ooit immuun voor wordt is niet iets waar we een uitspraak over kunnen doen momenteel.</span><span trigger="mens" class="replace"><a href="/?page=portal" class="relation" id="mens01"><img src="images/mens.jpg"></a></span>
+						 <span class="context" trigger="mens">Of de <a id="mens" class="trigger" href="#">mens</a> er ooit immuun voor wordt is niet iets waar we een uitspraak over kunnen doen momenteel.</context></span><span trigger="mens" class="replace"><a href="/?page=portal" class="relation" id="mens01"><img src="images/mens.jpg"></a></span>
 
 						 <span class="context" trigger="journalistiek">Het enige wat we daar over kunnen zeggen is dat we moeten afwachten, en de <a id="journalistiek" class="trigger" href="#">journalistiek</a> er op aan moeten blijven passen. De journalistiek moet zich al sinds haar geboorte aanpassen aan haar publiek, en dat zal niet veranderen.</span><span trigger="journalistiek" class="replace"><img src="images/journalistiek.jpg"></span>
 						<BR><BR>
@@ -251,7 +256,7 @@
 
 						<span class="context" trigger="eindigen">Dat is een goed punt om op te <a id="eindigen" class="trigger" href="#">eindigen</a>.</span><span trigger="eindigen" class="replace"><img src="images/eindigen.jpg"></span>
 
-						 <span class="context" trigger="leed">De mens moet op de hoogte blijven van het <a id="leed" class="trigger" href="#">leed</a> van de ander.</span><span trigger="leed" class="replace"><a href="/?page=portal" class="relation" id="tastbare01"><img src="images/leed.jpg"></a></span>
+						 <span class="context" trigger="leed">De mens moet op de hoogte blijven van <context relation="leed">het <a id="leed" class="trigger" href="#">leed</a> van de ander.</context></span><span trigger="leed" class="replace"><a href="/?page=portal" class="relation" id="tastbare01"><img src="images/leed.jpg"></a></span>
 
 						 <span class="context" trigger="effect">Het schrikt ons af, we walgen er van, en het zorgt ervoor dat we ons machteloos voelen, maar dat is nu juist het <a id="effect" class="trigger" href="#">effect</a> dat de oorlog journalistiek probeert te behalen.</span><span trigger="effect" class="replace"><img src="images/effect.jpg"></span>
 
