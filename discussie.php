@@ -4,7 +4,7 @@
 			<div class="person">
 				<b>Susan Sontag (Schrijfster)</b>
 				<BR><BR>
-					
+
 				<span class="context" trigger="amerikaanse">Susan Sontag was een <a id="amerikaanse" class="trigger" href="#">Amerikaanse</a> schrijfster, filmmaker, professor, literair icoon en politiek activist. </span><span trigger="amerikaanse" class="replace"><img src="images/amerikaanse.jpg"></span> 
 
 				<span class="context" trigger="internationale">Beginnend met de publicatie van 'Notes on Camp' in 1964, werd Sontag een <a id="internationale" class="trigger" href="#">internationale</a> beroemdheid.</span><span trigger="internationale" class="replace"><img src="images/internationale.jpg"></span> 
@@ -117,7 +117,7 @@
 					<div class="discussieright">
 						<b>S.S;</b> 
 
-						<span class="context" trigger="censuur">Maar waar je dan mee bezig bent is <a id="censuur" class="trigger" href="#">censuur</a>.</span><span trigger="censuur" class="replace"><img src="images/censuur.jpg"></span> 
+						<span class="context" trigger="censuur">Maar waar je dan mee bezig bent is <a id="censuur" class="trigger" href="#">censuur</a>.</span><span trigger="censuur" class="replace"><a href="/?page=portal" class="relation" id="fictie01"><img src="images/censuur.jpg"></a></span> 
 
 						<span class="context" trigger="veiligere">Je laat bewust een deel van de situatie uit beeld om een <a id="veiligere" class="trigger" href="#">veiligere</a> foto te maken.</span><span trigger="veiligere" class="replace"><img src="images/veiligere.jpg"></span> 
 
@@ -212,7 +212,7 @@
 
 						<span class="context" trigger="nieuws">Hoe negatiever ze tegenover het slechte <a id="nieuws" class="trigger" href="#">nieuws</a> staan, hoe negatiever ze tegenover het leed van anderen zelf staan.</span><span trigger="nieuws" class="replace"><img src="images/nieuws.jpg"></span> 
 
-						<span class="context" trigger="conflicten">Die negativiteit is alleen te bereiken door het slechtste van de <a id="conflicten" class="trigger" href="#">conflicten</a> te tonen. Het leed.</span><span trigger="conflicten" class="replace"><img src="images/conflicten.jpg"></span>
+						<span class="context" trigger="conflicten">Die negativiteit is alleen te bereiken door het slechtste van de <a id="conflicten" class="trigger" href="#">conflicten</a> te tonen. Het leed.</span><span trigger="conflicten" class="replace"><a href="/?page=portal" class="relation" id="realiteit01"><img src="images/conflicten.jpg"></a></span>
 						<BR><BR>
 					</div>
 				</div>
