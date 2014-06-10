@@ -4,6 +4,10 @@
 
 .cycle {
   font-weight: bold; }
+  .cycle .cycleElement {
+    display: none; }
+  .cycle .cycleElement.show {
+    display: inline; }
 
 .relation.highlight {
   background: yellow; }

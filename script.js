@@ -1,18 +1,37 @@
 $(document).ready(function($) {
-	$(".cycle").click(function(event) {
-		var level = 0;
-		var maxLevel = 0;
+	$(".cycle").each(function(index, el) {
+		$(this).html("");
+		$(this).attr("level",1);
 		for(var i = 1; i<10; i++){
-			var levelValue = $(this).attr('level-'+i);
-			if(levelValue!=null)maxLevel = i;
-			if(levelValue==$(this).html())level = i;
+			var elContent = $(this).attr("level-"+i);
+			if(elContent!=undefined){
+				var newEl = $("<span></span>");
+				newEl.addClass('cycleElement');
+				newEl.addClass('level'+i);
+				if(i==1)newEl.addClass('show');
+				newEl.html(elContent);
+				newEl.appendTo(this);
+			}
 		}
-		if(level>0 && maxLevel>0){
-			level += 1;
-			if(level>maxLevel)level = 1;
-			$(this).html($(this).attr('level-'+level));
-		}
-	});	
+	});
+
+
+	$(".cycle").click(function(event) {
+		var level = parseInt($(this).attr('level'));
+		var maxLevel = parseInt($(this).children().length);
+		console.log(maxLevel);
+		level += 1;
+		if(level>maxLevel)level = 1;
+		$(this).attr('level',level);
+		
+		$(this).children('').each(function(index, el) {
+			if($(this).hasClass('level'+level)){
+				$(this).addClass('show');
+			}else{
+				$(this).removeClass('show');
+			}
+		});
+	});
 	$(".gonext").click(function(event) {
 			event.preventDefault();
 			var level = $("article").attr("show");
