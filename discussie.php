@@ -1,9 +1,11 @@
+<title>Het debat over de waarde van beeld in oorlog journalistiek</title>		
+
 		<div class="container">
 			<div class="person">
 				<b>Susan Sontag (Schrijfster)</b>
 				<BR><BR>
-				Susan Sontag was een Amerikaanse schrijfster, filmmaker, professor, literair icoon en politiek activist. Beginnend met de publicatie van 'Notes on Camp' in 1964, werd Sontag een internationale beroemdheid. Haar best bekende werken zijn; On Photography, Against Interpretation, Styles of Radical Will, The Way We Live Now, Illness as Metaphor, Regarding the Pain of Others, The Volcano Lover and In America. 
-				Sontag was actief in het schrijven en spreken over conflictgebieden. Ze schreef veel over fotografie, cultuur, media, AIDS en ziekte, mensenrechten en communisme. Haar vaak provocatieve essays en speeches zorgden vaak voor kritiek. The New York Review of Book noemde haar 'One of the most influential critics of her generation.'
+				<span class="context" trigger="amerikaanse">Susan Sontag was een <a id="amerikaanse" class="trigger" href="#">Amerikaanse</a> schrijfster, filmmaker, professor, literair icoon en politiek activist. </span><span trigger="amerikaanse" class="replace"><img src="images/amerikaanse.png"></span> <span class="context" trigger="internationale">Beginnend met de publicatie van 'Notes on Camp' in 1964, werd Sontag een <a id="internationale" class="trigger" href="#">internationale</a> beroemdheid.</span><span trigger="internationale" class="replace"><img src="images/internationale.png"></span> <span class="context" trigger="werken">Haar best bekende <a id="werken" class="trigger" href="#">werken</a> zijn; On Photography, Against Interpretation, Styles of Radical Will, The Way We Live Now, Illness as Metaphor, Regarding the Pain of Others, The Volcano Lover and In America.</span><span trigger="werken" class="replace"><img src="images/werken.png"></span> 
+				<span class="context" trigger="fotografie">Sontag was actief in het schrijven en spreken over conflictgebieden. Ze schreef veel over <a id="fotografie" class="trigger" href="#">fotografie</a>, cultuur, media, AIDS en ziekte, mensenrechten en communisme.</span><span trigger="fotografie" class="replace"><img src="images/fotografie.png"></span> <span class="context" trigger="kritiek">Haar vaak provocatieve essays en speeches zorgden vaak voor <a id="kritiek" class="trigger" href="#">kritiek</a>.</span><span trigger="kritiek" class="replace"><img src="images/kritiek.png"></span> The New York Review of Book noemde haar 'One of the most influential critics of her generation.'
 				<BR><BR>
 			</div>
 
@@ -30,7 +32,7 @@
 				<BR><BR><BR><BR>
 			</div>
 
-			<div class="title"><b>Het debat over de waarde van beeld in de journalistiek</b></div>
+			<div class="title"><b>Het debat over de waarde van beeld in oorlog journalistiek</b></div>
 
 			<BR>
 				<div class="leftcontainer">
