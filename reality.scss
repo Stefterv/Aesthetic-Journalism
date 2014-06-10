@@ -15,7 +15,7 @@ article{
 	transition: color 0.2s ease-in-out;
 }
 .hide{
-	color: white;
+	color: rgba(0,0,0,0);
 	transition: color 0.2s ease-in-out;
 }
 article[show="1"]{

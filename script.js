@@ -64,7 +64,7 @@ $(document).ready(function($) {
 		var maxLevel = 3;
 		level++;
 		if(level>maxLevel){
-			level = 0;
+			level = maxLevel;
 		}
 		$(this).attr("show",level);
 	});
