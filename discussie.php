@@ -75,7 +75,7 @@
 
 						<span class="context" trigger="mensheid">De <a id="mensheid" class="trigger" href="#">mensheid</a> heeft van nature de wil om zoveel mogelijk te weten over waar hij of zij zich bevindt.</span><span trigger="mensheid" class="replace"><img src="images/mensheid.jpg"></span> 
 
-						<span class="context" trigger="leed">Maar is dat in deze tijd nog wel zo handig? Met al het <a id="leed" class="trigger" href="#">leed</a> dat zich afspeelt in <a href="/?page=reality" class="relation" id="wereld01">de wereld?</a> Journalisten die afreizen naar conflictgebieden om met gevaar voor eigen leven foto's te maken en verslag te geven van de situatie.</span><span trigger="leed" class="replace"><img src="images/leed.jpg"></span> 
+						<span class="context" trigger="leed">Maar is dat in deze tijd nog wel zo handig? Met <context relation="wereld">al het <a id="leed" class="trigger" href="#">leed</a> dat zich afspeelt in <a href="/?page=reality" class="relation" id="wereld01">de wereld</context>?</a> Journalisten die afreizen naar conflictgebieden om met gevaar voor eigen leven foto's te maken en verslag te geven van de situatie.</span><span trigger="leed" class="replace"><img src="images/leed.jpg"></span> 
 
 						<span class="context" trigger="oorlog">De vraag van vandaag is daarom dan ook; 'Heeft <a id="oorlog" class="trigger" href="#">oorlog</a> journalistiek het gewenste effect?'</span><span trigger="oorlog" class="replace"><img src="images/oorlog.jpg"></span>
 						<BR><BR>
@@ -109,7 +109,7 @@
 
 						<span class="context" trigger="effect">Het probleem is echter dat wat er getoond wordt niet het geliefde <a id="effect" class="trigger" href="#">effect</a> heeft.</span><span trigger="effect" class="replace"><img src="images/effect.jpg"></span> 
 
-						<context relation="dood"><span class="context" trigger="gruwelbeelden">Om je als mens, als buitenstaander, te verdiepen in een conflict heeft men geen <a id="gruwelbeelden" class="trigger" href="#">gruwelbeelden</a> nodig, waarop <a href="/?page=reality" class="relation" id="dood01">dode kinderen, moeders of vaders</a> te zien zijn.</span><span trigger="gruwelbeelden" class="replace"><img src="images/gruwelbeelden.jpg"></span>
+						<span class="context" trigger="gruwelbeelden">Om je als mens, als buitenstaander, <context relation="dood">te verdiepen in een conflict heeft men geen <a id="gruwelbeelden" class="trigger" href="#">gruwelbeelden</a> nodig, waarop <a href="/?page=reality" class="relation" id="dood01">dode kinderen, moeders of vaders</a> te zien zijn.</span><span trigger="gruwelbeelden" class="replace"><img src="images/gruwelbeelden.jpg"></span>
 
 						<span class="context" trigger="foto">De context van een foto kan dat gevoel al meedragen.</context> 'Een <a id="foto" class="trigger" href="#">foto</a> zegt meer dan duizend woorden' geldt niet alleen voor reguliere fotografie maar ook zeer zeker voor oorlog fotografie.</span><span trigger="foto" class="replace"><img src="images/foto.jpg"></span> 
 
@@ -241,7 +241,7 @@
 
 						<span class="context" trigger="leed">Men op deze manier op de hoogte blijven houden van het <a id="leed" class="trigger" href="#">leed</a> van anderen is voor nu denk ik de enige oplossing, daar kunnen we het nu denk ik wel over eens zijn.</span><span trigger="leed" class="replace"><img src="images/leed.jpg"></span>
 
-						 <span class="context" trigger="beelden">Voor nu is de mens nog niet immuun voor het leed van anderen, <context relation="mens">men <a href="/?page=reality" class="relation" id="schrikt01">schrikt</a> er nog steeds van wanneer ze de <a id="beelden" class="trigger" href="#">beelden</a> op tv zien, op internet zien, of in de krant lezen.</span><span trigger="beelden" class="replace"><img src="images/beelden.jpg"></span></context>
+						 <span class="context" trigger="beelden">Voor nu is de mens nog niet immuun voor het leed van anderen, <context relation="schrikt">men <a href="/?page=reality" class="relation" id="schrikt01">schrikt</a> er nog steeds van wanneer ze de <a id="beelden" class="trigger" href="#">beelden</a> op tv zien, op internet zien, of in de krant lezen.</span><span trigger="beelden" class="replace"><img src="images/beelden.jpg"></span></context>
 
 						 <span class="context" trigger="mens">Of de <a id="mens" class="trigger" href="#">mens</a> er ooit immuun voor wordt is niet iets waar we een uitspraak over kunnen doen momenteel.</context></span><span trigger="mens" class="replace"><a href="/?page=portal" class="relation" id="mens01"><img src="images/mens.jpg"></a></span>
 
