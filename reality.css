@@ -4,7 +4,7 @@
 article {
   color: black;
   cursor: pointer;
-  transition: color 0.2s ease-in-out;
+  transition: color 0.5s ease-in-out;
   font-family: "Century"; }
 
 ::selection {
@@ -12,8 +12,8 @@ article {
 
 .show, article[show="1"] .level1, article[show="1"] .level2, article[show="1"] .level3, article[show="2"] .level2, article[show="2"] .level3, article[show="3"] .level3 {
   color: black;
-  transition: color 0.2s ease-in-out; }
+  transition: color 0.5s ease-in-out; }
 
 .hide, article[show="1"], article[show="2"], article[show="2"] .level1, article[show="3"], article[show="3"] .level1, article[show="3"] .level2 {
   color: rgba(0, 0, 0, 0);
-  transition: color 0.2s ease-in-out; }
+  transition: color 0.5s ease-in-out; }
