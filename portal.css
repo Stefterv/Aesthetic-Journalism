@@ -1,0 +1,37 @@
+#broodtekst{
+	
+	font-family:georgia;
+	font-size:13px;
+	font-color:black;
+}
+
+#titel{
+	
+	
+	font-family:georgia;
+	font-size:30px;
+	font-color:black;
+	
+}
+
+#auteur{
+	
+	
+	font-family:georgia;
+	font-size:18px;
+	font-color:black;
+	
+}
+
+#voetnoten{
+	
+	font-family:georgia;
+	font-size:11px;
+	font-color:black;
+	font-style:italic;
+	
+}
+
+.cycle{
+	font-style:italic;
+}
