@@ -51,10 +51,12 @@ $(document).ready(function($) {
 	});
 });
 function highlight(el){
+	el.addClass('highlight');
 	el.closest('context').addClass('highlight');
 	$("context"+"[relation="+el.attr("id")+"]").addClass('highlight');
 }
 function removeHighlight(el){
+	el.removeClass('highlight');
 	el.closest('context').removeClass('highlight');
 	$("context"+"[relation="+el.attr("id")+"]").removeClass('highlight');
 }

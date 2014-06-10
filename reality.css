@@ -1,3 +1,6 @@
+.container {
+  max-width: 700px; }
+
 article {
   color: black;
   cursor: pointer;
