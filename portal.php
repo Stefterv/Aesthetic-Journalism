@@ -3,7 +3,7 @@
 
 <div id="broodtekst">
 
-<context relation="test">Een klein afrikaans meisje, 
+<context relation="kwetsbaar01">Een klein afrikaans meisje, 
 
 <span class="cycle" level-1="kwetsbaar" level-2="lichtgeraakt" level-3="<a href=/?page=reality class=relation id=kwetsbaar01>teer</a>">kwetsbaar</span> 
 	

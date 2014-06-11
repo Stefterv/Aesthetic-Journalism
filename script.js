@@ -45,6 +45,7 @@ $(document).ready(function($) {
 		$(this).attr('href', $(this).attr('href')+"#"+$(this).attr('id'));
 		if("#"+$(this).attr('id')==location.hash){
 			highlight($(this));
+			$("body").scrollTop($(this));
 		}
 	});
 	$(".relation").hover(function() {
@@ -68,14 +69,25 @@ $(document).ready(function($) {
 		}
 		$(this).attr("show",level);
 	});
+	$("a").on('click', function(event) {
+		event.preventDefault();
+		$("body").addClass('animate');
+		var href = $(this).attr("href");
+		setTimeout(function(){
+			location.href=href;
+		},500);
+
+		/* Act on the event */
+	});
 });
 function highlight(el){
 	el.addClass('highlight');
-	el.closest('context').addClass('highlight');
+	el.addClass('highlight');
+	// el.closest('context').addClass('highlight');
 	$("context"+"[relation="+el.attr("id")+"]").addClass('highlight');
 }
 function removeHighlight(el){
 	el.removeClass('highlight');
-	el.closest('context').removeClass('highlight');
+	// el.closest('context').removeClass('highlight');
 	$("context"+"[relation="+el.attr("id")+"]").removeClass('highlight');
 }

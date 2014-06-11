@@ -24,10 +24,10 @@
 				<span class="level3">covered by the media</span>
 				<span class="level2">. To give perspective</span> 
 				on how our journalistic system works. 
-				<span class="level2">Jaar is trying to show </span>
-				<span class="level3">the context</span> 
+				<context relation="replica01"><context relation="origineel01"><span class="level2">Jaar is trying to show </span>
+				<span class="level3">the <a href="/?page=portal" id="origineel01" class="relation">context</a></span> 
 				around the creation of this image and what 
-				<span class="level3">side of the story</span> 
+				<span class="level3">side of the <a href="/?page=portal" id="replica01" class="relation">story</a></span> 
 				<span class="level2">got all of the </span>
 				<span class="level3">coverage</span> 
 				<span class="level2">and what side did not get any</span> 
@@ -39,7 +39,7 @@
 				<span class="level3">differently</span> 
 				at the way the 
 				<span class="level3">media</span> 
-				presents the world. 
+				presents the world. </context></context>
 				<span class="level2">The same is true for </span>
 				<span class="level3">The Sound Of Silence</span>
 				<span class="level2">, in which Alfredo Jaar wants</span> 
@@ -101,35 +101,39 @@
 
 				<span class="level3">our</span> 
 				technical and cultural advantage
-				<span class="level2">, we saw the </span>
-				<span class="level3">Orient</span> 
-				<span class="level2">as our younger brother who we needed </span>
-				to protect and 
-				<span class="level3">help to grow</span> 
+				<context relation="kwetsbaar01"><span class="level2">, we saw the </span>
+								<span class="level3">Orient</span> </context>
+				<span class="level2">as our younger brother</span>
+				<context relation="kwetsbaar01"><span class="level2">who we needed </span>
+								to protect </context>and 
+				<span class="level3"><a href="/?page=portal" id="kwetsbaar01" class="relation">help to grow</a></span> 
 				<span class="level2">independent. This idea justified colonisation</span> 
 				for the european countries	
-				<span class="level2">, as we believed </span>
-				<span class="level3">it was our duty to civilise</span> 
-				<span class="level2">the uncivilised parts of </span>
-				<span class="level3">the world.</span> 
+				<span class="level2">, as </span>
+				<context relation="wereld01"><span class="level2"> we believed </span>
+								<span class="level3">it was our duty to civilise</span> </context>
+				<a href="/?page=discussie" id="wereld01" class="relation">
+					<span class="level2">the uncivilised parts of </span>
+					<span class="level3">the world.</span> 
+				</a>
 			</p>
 			<p>
 				<span class="level2">On the other hand, </span>
 				<span class="level3">western civilisation</span> 
 				<span class="level2">used the orient to </span>
 				<span class="level3">define itself.</span> 
-				Using the concept of them and us, 
-				<span class="level2">a view of </span>
-				<span class="level3">the East</span> 
-				<span class="level2">as an </span>
-				<span class="level3">uncivilised</span> 
-				<span class="level2">and underdeveloped</span> 
-				<span class="level3">part of the world</span>
-				<span class="level2">, our </span>
-				<span class="level3">self-image</span> 
-				<span class="level2">as a </span>
-				<span class="level3">superior</span> 
-				race developed by specifying everything that we weren't as something the orient was. Edward Said explained this phenomenon: “On the one hand there are Westerners, and on the other there are Arab-Orientals; the former are (in no particular order) 
+				Using the <a href="/?page=portal" id="self01" class="relation">concept</a><context relation="self01"> of them and us, 
+								<span class="level2">a view of </span>
+								<span class="level3">the East</span> 
+								<span class="level2">as an </span>
+								<span class="level3">uncivilised</span> 
+								<span class="level2">and underdeveloped</span> 
+								<span class="level3">part of the world</span>
+								<span class="level2">, our </span>
+								<span class="level3">self-image</span> 
+								<span class="level2">as a </span>
+								<span class="level3">superior</span> 
+								race developed</context> by specifying everything that we weren't as something the orient was. Edward Said explained this phenomenon: “On the one hand there are Westerners, and on the other there are Arab-Orientals; the former are (in no particular order) 
 				<span class="level3">rational, peaceful, liberal, logical, capable of holding real values, without natural suspicion</span>
 				<span class="level2">; the latter are </span>
 				<span class="level3">none of these things</span>
@@ -143,10 +147,10 @@
 				<span class="level2">most of the </span>
 				<span class="level3">colonised countries</span> 
 				<span class="level2">are</span> 
-				<span class="level3">now independent states.</span> 
-				<span class="level2">But we still look </span>
-				the same way 
-				<span class="level2">towards the Orient. A subconscious thought of</span> 
+				<context relation="situatie01"><span class="level3">now <a href="/?page=portal" id="situatie01" class="relation">independent states</a>.</span> 
+								<span class="level2">But we still look </span>
+								the same way 
+								<span class="level2">towards the Orient.</span></context><span class="level2"> A subconscious thought of</span> 
 				<span class="level3">terrorism</span> 
 				every time we hear the word Islam is not uncommon. Africa is still associated with 
 				<span class="level3">death and disease.</span> 
@@ -162,18 +166,18 @@
 				<span class="level3">media.</span> 
 				<span class="level2">David </span>
 				<span class="level3">Natharius wrote about</span> 
-				our media in the general sense in his article about the dominance of the visual image in the 
-				<span class="level3">media.</span> 
-				<span class="level2">We have moved from a </span>
-				<span class="level3">linear</span> 
-				<span class="level2">and</span> 
-				<span class="level3">written</span> 
-				<span class="level2">literacy</span> 
-				<span class="level3">to visual</span> 
-				<span class="level2">and</span> 
-				<span class="level3">holistic literacy.</span> 
-				<span class="level2">This change is clearly visible in his example of our reaction on the terrorist attack on the </span>
-				<span class="level3">world trade centre.</span>  
+				our media in the general sense in his article about <context relation="ontwikkelingen01">the <a href="/?page=portal" id="ontwikkelingen01" class="relation">dominance of the visual image</a> in the 
+								<span class="level3">media.</span> 
+								<span class="level2">We have moved from a </span>
+								<span class="level3">linear</span> 
+								<span class="level2">and</span> 
+								<span class="level3">written</span> 
+								<span class="level2">literacy</span> 
+								<span class="level3">to <a href="/?page=portal" id="visuele01" class="relation">visual</a></span> 
+								<span class="level2">and</span> 
+								<span class="level3">holistic literacy.</span> </context>
+				<span class="level2">This change is clearly visible in his example of</span> <context relation="schrikt01"><span class="level2" >our reaction on the <a href="/?page=discussie" id="schrikt01" class="relation">terrorist attack</a> on the </span>
+								<span class="level3">world trade centre.</span>  </context>
 				<span class="level2">“On September 11, 2001, we were ushered into a world of terrible visual immediacy. For days after this tragedy, we were exposed, over and over again, to </span>
 				<span class="level3">televised images of the planes crashing</span> 
 				<span class="level2">into the towers, </span>
@@ -196,21 +200,25 @@
 				three thinkers that explain 
 				<span class="level3">why</span> 
 				in our current culture, 
-				<span class="level3">the dominant fiction is created through visual imagery.</span> 
+				<context relation="integriteit01"><a href="/?page=discussie" id="integriteit01" class="relation level3">the dominant fiction is created through visual imagery.</a>
 				<span class="level2">We see visual imagery often as </span>
 				<span class="level3">truth</span> 
 				<span class="level2">because we assume that our visual perception is </span>
 				<span class="level3">the most accurate</span> 
 				<span class="level2">of our </span>
-				<span class="level3">senses.</span> 
-				<span class="level2">But we </span>
+				<span class="level3">senses.</span> </context>
+				<context relation="pervereert01"><span class="level2">But we </span>
 				<span class="level3">forget</span> 
-				<span class="level2">that we </span>
-				<span class="level3">have</span> 
-				<span class="level2">been</span> 
-				<span class="level3">taught</span> 
-				<span class="level2">to</span> 
-				see, just like we have been taught to 
+				<span class="level2">that </span>
+				<a href="/?page=portal" id="pervereert01" class="relation">
+					<span class="level2">we </span>
+					<span class="level3">have</span> 
+					<span class="level2">been</span> 
+					<span class="level3">taught</span> 
+					<span class="level2">to</span> 
+					see
+				</a>
+				, just like we have been taught to 
 				<span class="level3">read</span> 
 				<span class="level2">and</span> 
 				<span class="level3">write.</span> 
@@ -222,7 +230,7 @@
 				<span class="level3">real</span> 
 				than written media would, 
 				<span class="level2">but actually is just as </span>
-				<span class="level3">inaccurate.</span> 
+				<span class="level3">inaccurate.</span> </context>
 				<span class="level2">In the sound of silence this inaccuracy is </span>
 				<span class="level3">conceptualised by showing</span> 
 				<span class="level2">that there is more </span>
@@ -234,7 +242,8 @@
 				<span class="level3">based on our pre-existing knowledge</span> 
 				<span class="level2">about the Orient, and in this case </span>
 				<span class="level3">Africa.</span> 
-				<span class="level2">We do this to fill in </span>
+				<span class="level2">We do this to </span>
+				<span class="level2">fill in </span>
 				<span class="level3">the blanks</span> 
 				<span class="level2">that the photograph </span>
 				<span class="level3">cannot show</span> 
@@ -261,10 +270,11 @@
 				about it.
 			</p>
 			<p>
+				<context relation="beeld01">
 				<span class="level2">But the inaccuracy in visual media is not the only </span>
 				<span class="level3">reason our knowledge about the orient</span> 
 				<span class="level2">has stayed so </span>
-				<span class="level3">limited. Storytelling is</span> 
+				<span class="level3">limited. <a href="/?page=portal" id="beeld01" class="relation">Storytelling</a></context></span><span class="level3" is</span> 
 				<span class="level2">another</span> 
 				<span class="level3">large component of</span> 
 				<span class="level2">journalism. Journalists</span> 

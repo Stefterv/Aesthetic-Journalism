@@ -1,3 +1,9 @@
+a:link {
+  color: black; }
+
+a:visited {
+  color: black; }
+
 .container {
   max-width: 700px; }
 
