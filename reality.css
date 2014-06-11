@@ -1,3 +1,10 @@
+@font-face {
+  font-family: 'Century';
+  src: url("webfont.eot");
+  /* IE9 Compat Modes */
+  src: url("webfont.eot?#iefix") format("embedded-opentype"), url("webfont.woff") format("woff"), url("CENTURY.TTF") format("truetype"), url("webfont.svg#svgFontName") format("svg");
+  /* Legacy iOS */ }
+
 a:link {
   color: black; }
 

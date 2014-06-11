@@ -69,7 +69,7 @@ $(document).ready(function($) {
 		}
 		$(this).attr("show",level);
 	});
-	$("a").on('click', function(event) {
+	$("a:not(.trigger)").on('click', function(event) {
 		event.preventDefault();
 		$("body").addClass('animate');
 		var href = $(this).attr("href");
